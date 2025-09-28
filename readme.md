@@ -13,8 +13,8 @@ clear the walls surrounding the game board, I added a field below the board that
 off.
 
 ## Notable Files:
-`/GameDemo.mp4` - Short Game Demo video.
-`/Builds/Program1.exe` - Executable for running the game.
+`/GameDemo.mp4` - Short Game Demo video.\
+`/Builds/Program1.exe` - Executable for running the game.\
 `/Assets/Scripts/` - Scripts written for the game.
 
 
