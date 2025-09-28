@@ -1,13 +1,16 @@
-# Inspiration
+# Brainstorm
 
-> Minimum one paragraph summary of inspiration you're drawing from to build your game
+> Minimum one paragraph capturing your brainstorm of a game you want to build for this class.  Include as many details as you can think of.
 
-This year some of my favorite games have been sidescrolling platformers that also feature
-combat challenges, such as Neva and Hollow Knight. My favorite part of both games is the 
-bounciness that the player characters have when attacking, and so I would like to incorporate
-that into my game. Another source of inspiration is a different side scrolling game I created
-for a course a while ago that featured a grappling hook. However, the hook is slow and the
-game was incomplete. I would like to attempt the game again now that I have more programming
-experience to make a more fluid grappling hook. In my final game, I would like to incorporate
-a fluid grappling hook and intermitant combat into a side scroller platformer in accordance
-with my inspiration.
+In accordance with my inspiration, the game would be a sidescrolling platformer based on 
+platforming and combat using a grappling hook. My primary idea is that the character would
+use an appendage from their head to extend out to grab a point, pull themselves in very quickly, and bounce
+off the point as one of their main moves. This move could damage enemies, but players would need to be careful
+as it would also bring the character close to enemies. Having the player bounce off of points in quick succession
+for platforming could also be interesting and challenging. For additional options, the player could have a charge move
+that throws terrain up from the ground that they could then grapple to. This gives an option to have players create their
+own grapple points for bridging large gaps while platforming or creating openings in combat. Finally, I think the personality
+of the main character could be frantic and zany, like a creature escaping a lab and using their power in unexpected ways. I think that
+animation, UI, and camera movement could be used to sell this personality for the game and the character, as well as how the
+player should feel while playing it.
+
