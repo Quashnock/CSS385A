@@ -27,6 +27,8 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        Cursort.visible = false;
+
         rb = GetComponent<Rigidbody>();
         count = 0;
 
@@ -63,7 +65,7 @@ public class PlayerController : MonoBehaviour
         }
         else 
         {
-            Cursor.visible = true;
+            Cursor.visible = false;
 
             centerTextObject.gameObject.SetActive(false);
 
