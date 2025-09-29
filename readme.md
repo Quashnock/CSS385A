@@ -24,4 +24,4 @@ https://learn.unity.com/course/roll-a-ball
 ## Controls: 
 Movement - Arrow keys\
 Jump - Space bar\
-Pause - ESC or P
+Pause - P
