@@ -14,8 +14,8 @@ off.
 
 ## Notable Files:
 `/GameDemo.mp4` - Short Game Demo video.\
-`/Builds/Program1.exe` - Executable for running the game.\
-`/Assets/Scripts/` - Scripts written for the game.
+`/Builds/Program1.exe` - Executable for running the game. Note: You need to download all files for the executable to run.\
+`/Assets/Scripts/` - Scripts I wrote for the game.
 
 
 ## Tutorial followed:
