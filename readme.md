@@ -5,7 +5,7 @@ By Aaron Quashnock
 Are you a fan of good old-fashion carnival plinking games? Combine special bullets and other upgrades in this western-themed roguelite shooting gallery to get the highest score you can without going bankrupt. With a mix of good aim, solid strategy, and just the right amount of risk, you too can crush your previous records and become the best sharpshooter in the west!
 
 ## Game synopsis
-This game is a western-themed roguelite shooting gallery where players shoot targets to get points, as well as money for bullets and upgrades. Upgrades will help players score more points over the course of a run in the game, but if the player runs out of money and bullets then their run is over. Scaling with how many points the player ends a run with, they gain a seperate currency used to purchase permanent upgrades that they can carry into subsequent runs.
+This game is a western-themed roguelite shooting gallery where players shoot moving targets to get points and money for bullets and upgrades. Upgrades help players score more points as a run of the game continues, but if the player runs out of money and bullets then their run is over. Depending on how many points the player ends a run with, they gain a seperate currency used to purchase permanent upgrades that they can carry into subsequent runs.
 
 ### Objective
 The objective is to shoot targets to score as many points as possible and improve their high scores across runs.
